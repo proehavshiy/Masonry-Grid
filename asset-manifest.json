@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbcd6933.css",
-    "main.js": "/static/js/main.b0c98c9b.js",
-    "static/js/787.9dca8e21.chunk.js": "/static/js/787.9dca8e21.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.dbcd6933.css.map": "/static/css/main.dbcd6933.css.map",
-    "main.b0c98c9b.js.map": "/static/js/main.b0c98c9b.js.map",
-    "787.9dca8e21.chunk.js.map": "/static/js/787.9dca8e21.chunk.js.map"
+    "main.css": "/Masonry-Grid/static/css/main.dbcd6933.css",
+    "main.js": "/Masonry-Grid/static/js/main.9d54efd0.js",
+    "static/js/787.9dca8e21.chunk.js": "/Masonry-Grid/static/js/787.9dca8e21.chunk.js",
+    "static/media/logo.svg": "/Masonry-Grid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Masonry-Grid/index.html",
+    "main.dbcd6933.css.map": "/Masonry-Grid/static/css/main.dbcd6933.css.map",
+    "main.9d54efd0.js.map": "/Masonry-Grid/static/js/main.9d54efd0.js.map",
+    "787.9dca8e21.chunk.js.map": "/Masonry-Grid/static/js/787.9dca8e21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbcd6933.css",
-    "static/js/main.b0c98c9b.js"
+    "static/js/main.9d54efd0.js"
   ]
 }
